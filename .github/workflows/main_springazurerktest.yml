@@ -50,4 +50,4 @@ jobs:
           app-name: 'SpringAzureRkTest'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B90E7E8750E47C990BA7E1285F22135 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AA17E83F1FF48B0917ADCA5F61966BE }}
