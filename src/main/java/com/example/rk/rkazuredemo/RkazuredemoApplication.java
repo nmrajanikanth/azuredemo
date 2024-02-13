@@ -11,7 +11,7 @@ public class RkazuredemoApplication {
 
     @GetMapping("/message")
     public String message(){
-        return "Hi from Azure";
+        return "Hi from Azure Platform with update";
     }
     public static void main(String[] args) {
         SpringApplication.run(RkazuredemoApplication.class, args);
